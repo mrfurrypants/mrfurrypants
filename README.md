@@ -1,6 +1,5 @@
  ## Hi there, I'm Pavel 👋 [![Linkedin Badge](https://img.shields.io/badge/-Pavel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mrfurrypants) [![Google Drive Badge](https://img.shields.io/badge/-My%20CV-yellow?style=flat&logo=Google-Drive&logoColor=white)](https://docs.google.com/document/)
 
----
  ### :man_technologist: About Me:
 
 I am an aspiring Web Automation Tester:
@@ -11,8 +10,6 @@ I am an aspiring Web Automation Tester:
 - 📚 Continually learning about new technologies to stay updated in the field.
 - 🚀 Passionate about improving software quality.
 - 🎯 Focused on providing the best solutions for automated testing challenges.
-
----
   
  ### :hammer_and_wrench: Languages & Tools:
 
@@ -33,7 +30,5 @@ I am an aspiring Web Automation Tester:
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="BASH" **alt="BASH" width="40" height="40"/>&nbsp;
 <img src="https://avatars.githubusercontent.com/u/3909953?s=200&v=4" title="TestRail" **alt="TestRail" width="40" height="40"/>&nbsp;
 </p>
-
----
 
  ### :building_construction: Work Examples & Projects:
