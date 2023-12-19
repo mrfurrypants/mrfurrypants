@@ -2,7 +2,7 @@
 
  ### :man_technologist: About Me:
 
-I am an aspiring Web Automation Tester:
+I am a Software Tester:
 
 - 🥇 With a hands-on foundation in Manual Testing through an internship training program.
 - ⚡ Knowledgeable in general testing theory and able to utilize it throughout the testing lifecycle.
