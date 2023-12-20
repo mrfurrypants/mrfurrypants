@@ -9,7 +9,7 @@ I am a Software Tester:
 - 🤝 Enjoying collaborating as an proactive team player.
 - 📚 Continually self-learning new technologies to stay updated in the field.
 - 🚀 Passionate about improving software quality.
-- 🎯 Focused on providing the best solutions for automated testing challenges.
+- 🎯 Focused on providing the best solutions for Automated Testing challenges.
   
  ### :hammer_and_wrench: Languages & Tools:
 
