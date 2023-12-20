@@ -5,9 +5,9 @@
 I am a Software Tester:
 
 - 🥇 With a hands-on foundation in Manual Testing through an internship training program.
-- ⚡ Knowledgeable in general testing theory and able to utilize it throughout the testing lifecycle.
-- 🤝 Enjoying collaborating as part of a team.
-- 📚 Continually learning about new technologies to stay updated in the field.
+- ⚡ Creative, responsible and attentive to detail person.
+- 🤝 Enjoying collaborating as an proactive team player.
+- 📚 Continually self-learning new technologies to stay updated in the field.
 - 🚀 Passionate about improving software quality.
 - 🎯 Focused on providing the best solutions for automated testing challenges.
   
