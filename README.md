@@ -29,6 +29,7 @@ I am a Software Tester:
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="BASH" **alt="BASH" width="40" height="40"/>&nbsp;
 <img src="https://avatars.githubusercontent.com/u/3909953?s=200&v=4" title="TestRail" **alt="TestRail" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Diagrams.net_Logo.svg" title="Diagrams.net" **alt="Diagrams.net" width="40" height="40"/>&nbsp;
 </p>
 
  ### :building_construction: Work Examples & Projects:
