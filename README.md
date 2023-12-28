@@ -22,6 +22,7 @@ I am a Software Tester:
 <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>&nbsp;
 <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" title="Allure" alt="Allure" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij-IDEA" alt="Intellij-IDEA" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/ChromeDevTools/devtools-logo/blob/master/logos/svg/chrome-devtools-circle-128.svg" title="ChromeDevTools" alt="ChromeDevTools" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/nmint8m/guide-charles-proxy/master/Images/img-icon.png" title="Charles Proxy"  alt="Charles Proxy" width="40" height="40"/>&nbsp;
