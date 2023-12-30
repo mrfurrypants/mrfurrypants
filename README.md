@@ -1,4 +1,4 @@
- ## Hi there, I'm Pavel 👋 [![Linkedin Badge](https://img.shields.io/badge/-Pavel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mrfurrypants) [![Google Drive Badge](https://img.shields.io/badge/-My%20CV-yellow?style=flat&logo=Google-Drive&logoColor=white)](https://drive.google.com/file/d/1hAspvy6siCKJNyUwOwJMtdOEe_72MK30/view?usp=sharing)
+ ## Hi there, I'm Pavel 👋 [![Linkedin Badge](https://img.shields.io/badge/-Pavel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mrfurrypants) [![Google Drive Badge](https://img.shields.io/badge/-My%20CV-yellow?style=flat&logo=Google-Drive&logoColor=white)](https://drive.google.com/file/d/1Q5Uv1ZxZSSui_yHIEgyNfD2AIykAppXA/view?usp=sharing)
 
  ### :man_technologist: About Me:
 
